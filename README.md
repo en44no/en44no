@@ -1,4 +1,4 @@
-### Welcome to my GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ### 🌎 Contact me:
 > https://www.linkedin.com/in/nahuelmarquez/
