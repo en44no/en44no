@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=8b72af&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=8b72af&lines=Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 ### 🌎 Contact me:
 > https://www.linkedin.com/in/nahuelmarquez/
 
