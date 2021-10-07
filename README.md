@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?&color=8b72af&lines=Welcome+to+my+GitHub.)](https://git.io/typing-svg)
 ### 🌎 Contact me:
-> https://www.linkedin.com/in/nahuelmarquez/
+> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuelmarquez/)
 
 ### 💻 My website:
-> https://personal-website-en44no.vercel.app/
+> [![portfolio](https://img.shields.io/badge/click_here-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://personal-website-en44no.vercel.app/)
 
 ### ⚡ Stats:
 
