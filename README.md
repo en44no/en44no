@@ -7,7 +7,6 @@
 
 ### ⚡ Stats:
 
-
 > [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=en44no&hide=contribs,prs,issues&show_icons=true&&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=en44no&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
