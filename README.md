@@ -3,7 +3,7 @@
 > [![linkedin](https://img.shields.io/badge/linkedin-8b72af?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuelmarquez/)
 
 ### 💻 My website:
-> [![portfolio](https://img.shields.io/badge/my_website-8b72af?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahuelmarquez.vercel.app/)
+> [![portfolio](https://img.shields.io/badge/nahuelmarquez.vercel.app-8b72af?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nahuelmarquez.vercel.app/)
 
 ### ⚡ Stats:
 
